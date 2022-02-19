@@ -1,0 +1,4 @@
+com.iot.video.app.kafka.collector
+com.iot.video.app.kafka.util
+com.iot.video.app.spark.processor
+com.iot.video.app.spark.util
